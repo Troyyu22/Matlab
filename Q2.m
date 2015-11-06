@@ -1,4 +1,4 @@
-function sth=XXX2()
+function sth=Q2()
 
 %{
     Rx is the Runge function
